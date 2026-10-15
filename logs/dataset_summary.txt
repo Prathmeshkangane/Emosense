@@ -1,0 +1,10 @@
+Dataset Summary (unique clips)
+========================================
+  [0] angry    : 592 clips
+  [1] disgust  : 592 clips
+  [2] fear     : 592 clips
+  [3] happy    : 592 clips
+  [4] neutral  : 688 clips
+  [5] sad      : 592 clips
+  [6] surprise : 592 clips
+  RAVDESS: 1440 | TESS: 2800 | TOTAL: 4240

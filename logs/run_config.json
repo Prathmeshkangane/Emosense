@@ -1,0 +1,21 @@
+{
+  "sr": 22050,
+  "duration": 3,
+  "offset": 0.5,
+  "n_mfcc": 40,
+  "feature_dim": 180,
+  "tensorflow_version": "2.20.0",
+  "keras_version": "3.13.2",
+  "unique_clips": 4240,
+  "ravdess_clips": 1440,
+  "tess_clips": 2800,
+  "train_clips": 2968,
+  "val_clips": 636,
+  "test_clips": 636,
+  "augmentation": true,
+  "train_samples_after_aug": 8904,
+  "test_accuracy": 0.8097484111785889,
+  "macro_f1": 0.8087034525817499,
+  "weighted_f1": 0.8092073557177704,
+  "split": "random stratified by clip (NOT speaker-independent)"
+}
